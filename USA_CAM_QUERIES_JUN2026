@@ -1,0 +1,120 @@
+SHODAN.IO WebCam SEARCH QUERIES -
+
+Positve Results w/ screenshot previews, multiple servers, and PTZ Controls.
+
+All Results are completely random and may display people in their homes. Please do not actively view those cameras if you come accross them. (These are unfortunatley terrible network administrators and don't know they're being watched) Don't be a creeper! Don't watch children! DUH.
+
+Main Region: U.S.A. 
+
+Search time: 8 hours. Includes link Retrieval & Status Check of links.
+
+AXIS Traffic Cam Phila PA https://www.shodan.io/host/166.143.99.178
+
+AXIS Traffic Cam Lancaster PA https://www.shodan.io/host/50.238.154.6
+
+AXIS Traffic Cam Lancaster PA https://www.shodan.io/host/174.131.17.142
+
+AXIS Savannah River https://www.shodan.io/host/50.252.186.193
+
+AXIS Traffic (CTRLS) Chicago https://www.shodan.io/host/162.191.53.205
+
+AXIS Bird on Building Buffalo NY https://www.shodan.io/host/162.191.53.205
+
+AXIS High Point University NC https://www.shodan.io/host/192.154.46.57
+
+AXIS CAM Oshkosh WI https://www.shodan.io/host/65.30.117.77
+
+AXIS Traffic Cam Richmond VA https://www.shodan.io/host/96.75.205.25
+
+AXIS Traffic Cam Winchester VA https://www.shodan.io/host/50.242.37.241
+
+AXIS Coastal KIA Beach Wilmington NC https://www.shodan.io/host/24.216.28.122		
+
+https://www.shodan.io/host/50.252.186.193 Georgia Savannah River
+
+AXIS PORT OF SAVANNAH Atlanta GA (Multiple CAMS) https://www.shodan.io/host/67.216.159.198
+
+AXIS TOWER CAM Newago County Fremont MI https://www.shodan.io/host/198.245.198.246
+
+AXIS CAM Pittsburgh PA Parking Garage https://www.shodan.io/host/208.40.202.24
+
+AXIS CAM N.Redington Beach FL https://www.shodan.io/host/67.79.173.50
+
+AXIS CAM Pittsburgh PA Athletic Feild https://www.shodan.io/host/50.206.62.236
+
+AXIS CAM Lake in the HILLS Illinois https://www.shodan.io/host/216.125.60.68
+
+AXIS CAM North Vancouver Canada https://www.shodan.io/host/66.119.160.235
+
+AXIS CAM BEACH Chicago IL https://www.shodan.io/host/50.247.132.225
+
+AXIS CAM (CTRLS) NEW CITY (?) Loading Dock outside https://www.shodan.io/host/47.22.77.235
+
+AXIS CAM (CTRLS) NEW CITY (?) Loading Dock inside https://www.shodan.io/host/47.22.77.227
+
+AXIS CAM Raleigh NC Telecom Co. CRANE https://www.shodan.io/host/152.14.198.237
+
+AXIS CAM Raleigh NC Telecom Co. LIFT https://www.shodan.io/host/152.14.198.234#443
+
+AXIS CAM (CTRLS) Reston VA Supply Yard https://www.shodan.io/host/166.159.52.237#80
+
+AXIS CAM Jackson MI Mississippi River https://www.shodan.io/host/104.4.55.1
+
+AXIS CAM Football Field Conewago/Lincoln School Dist. New Oxford PA https://www.shodan.io/host/208.67.140.130
+
+AXIS CAM Church in Chicago IL (W/Recordings) https://www.shodan.io/host/162.191.209.115
+
+AXIS CAM Automotive Garage WinterSprings FL https://www.shodan.io/host/71.43.219.44
+
+AXIS CAM Botanical Research Institute of Texas (BRIT) https://www.shodan.io/host/70.116.184.214
+
+AXIS CAM MCNC Factory Raleigh NC https://www.shodan.io/host/152.14.198.230
+
+AXIS CAM University of Arkansas Med Sciences https://www.shodan.io/host/159.150.4.124
+
+AXIS CAM Lake Michigan Chicago IL https://www.shodan.io/host/165.124.175.228
+
+AXIS CAM Street View (CTRLS) Newport News VA https://www.shodan.io/host/166.143.22.126
+
+AXIS CAM (CTRLS) NEWPORT NEWS VA https://www.shodan.io/host/166.143.22.130
+
+AXIS CAM (CTRLS) NEWPORT NEWS VA HighWay https://www.shodan.io/host/166.143.22.128
+
+AXIS CAM (CTRLS) NEWPORT NEWS VA Street https://www.shodan.io/host/166.143.22.121
+
+AXIS CAM (CTRLS) NEWPORT NEWS VA Street 2 https://www.shodan.io/host/166.143.22.127
+
+AXIS CAM (CTRLS)(MULTIPLE) Spokane Washington Lake/BOAT *NICE* https://www.shodan.io/host/67.185.207.182
+
+
+*Poor folks are being watched in their living-room > JPEG > https://www.shodan.io/host/98.180.99.70
+
+*Someone's XUMO TV https://www.shodan.io/host/71.230.72.124
+
+ >> For More Enter/change Custom States and/or cities > SHODAN.IO Search:  
+Country Search>   Country:"US"
+State Search>   State:"PA"
+City Search>   City:"Philadelphia"
+Active Screenshots>   has_screenshot:true      
+
+Titles
+
+title:"NETSurveillance"   >>   Good Results!
+title:"web"
+title:"page"
+title:"index"
+title:"blue"
+title:"view"
+title:"VB*"
+title:"WV*"
+title:"AXIS"
+title:"Cam"                                     
+title:"Cam*"
+title:"Camera" 
+title:"link" 
+title:"internet"
+title"net"
+title:"front"
+title:"title"
+title:"back"
+title:"network"
